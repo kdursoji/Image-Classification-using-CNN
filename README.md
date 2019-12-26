@@ -5,7 +5,7 @@ A convolutional network receives a normal color image as a rectangular box whose
 
 As images move through a convolutional network, different patterns are recognised just like a normal neural network. But here rather than focussing on one pixel at a time, a convolutional net takes in square patches of pixels and passes them through a **filter**. That filter is also a square matrix smaller than the image itself, and equal in size to the patch. It is also called a **kernel**.
 
-<img src="https://ahmedbesbes.com/images/GIF.gif" alt="CNN">
+<p align="center"><img src="https://ahmedbesbes.com/images/GIF.gif" alt="CNN"></p>
 
 ## CNN Model
 
